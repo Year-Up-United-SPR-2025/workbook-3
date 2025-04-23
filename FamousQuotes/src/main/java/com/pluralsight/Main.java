@@ -20,7 +20,7 @@ public class Main {
         quotes.add("Say hello to my little friend! — Scarface (1983)");
 
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a Number 1 - 10");
+        System.out.print("Enter a Number 1 - 10: \n");
 
         int choice = scanner.nextInt();
         System.out.println("Quote: " + quotes.get(choice - 1));
