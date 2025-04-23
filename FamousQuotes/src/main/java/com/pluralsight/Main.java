@@ -20,10 +20,24 @@ public class Main {
         quotes.add("Say hello to my little friend! — Scarface (1983)");
 
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a Number between 1 - 10: \n");
+        int choice = 0;
 
-        int choice = scanner.nextInt();
-        System.out.println("Quote: " + quotes.get(choice - 1));
+        while (true) {
+            System.out.print("Enter a Number between 1 - 10: \n ");
 
+            if (scanner.hasNextInt()) {
+                choice = scanner.nextInt();
+
+                if (choice >= 1 && choice <= 10) {
+                    System.out.println("Quote: " + quotes.get(choice - 1));
+                    break;
+                } else {
+                    System.out.println("That's not a number between 1 - 10 . Try again.");
+                }
+            } else {
+                scanner.next();
+            }
+        }
+        scanner.close();
     }
 }
