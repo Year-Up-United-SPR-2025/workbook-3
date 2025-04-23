@@ -9,7 +9,7 @@ public class Main {
 
         ArrayList<String> quotes = new ArrayList<>();
         quotes.add("Frankly, my dear, I don't give a damn. — Gone with the Wind (1939)");
-        quotes.add( "I'm going to make him an offer he can't refuse. — The Godfather (1972)");
+        quotes.add("I'm going to make him an offer he can't refuse. — The Godfather (1972)");
         quotes.add("Here's looking at you, kid. — Casablanca (1942)");
         quotes.add("May the Force be with you. — Star Wars (1977)");
         quotes.add("You can't handle the truth! — A Few Good Men (1992)");
