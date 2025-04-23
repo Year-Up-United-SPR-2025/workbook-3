@@ -1,17 +1,51 @@
-List of Mario RPG's:
-1. Super Mario RPG: Legend of the Seven Stars (1996, SNES)
-2. Paper Mario (2000, N64)
-3. Paper Mario: The Thousand-Year Door (2004, GameCube)
-4. Super Paper Mario (2007, Wii)
-5. Paper Mario: Sticker Star (2012, 3DS)
-6. Paper Mario: Color Splash (2016, Wii U)
-7. Paper Mario: The Origami King (2020, Switch)
-8. Mario & Luigi: Superstar Saga (2003, GBA)
-9. Mario & Luigi: Partners in Time (2005, DS)
-10. Mario & Luigi: Bowser's Inside Story (2009, DS)
-11. Mario & Luigi: Dream Team (2013, 3DS)
-12. Mario & Luigi: Paper Jam (2015, 3DS)
-13. Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey (2019, 3DS)
-14. Mario & Luigi: Superstar Saga + Bowser's Minions (2017, 3DS)
-15. Paper Mario: The Thousand-Year Door Remake (2024, Switch)
-16. Mario & Luigi: Brothership (2024, Switch)
+Super Mario RPG Series:
+
+Paper Mario – August 11, 2000 (Japan), February 5, 2001 (NA – Nintendo 64)
+
+Paper Mario: The Thousand-Year Door – July 22, 2004 (Japan), October 11, 2004 (NA – GameCube)
+
+Super Paper Mario – April 9, 2007 (NA), April 19, 2007 (Japan – Wii)
+
+Paper Mario: Sticker Star – November 11, 2012 (NA), December 6, 2012 (Japan – Nintendo 3DS)
+
+Paper Mario: Color Splash – October 7, 2016 (Worldwide – Wii U)
+
+Paper Mario: The Origami King – July 17, 2020 (Worldwide – Nintendo Switch)
+
+Paper Mario: The Thousand-Year Door (Remake) – May 23, 2024 (Worldwide Nintendo Switch)
+
+Mario & Luigi Series:
+
+Mario & Luigi: Superstar Saga – November 17, 2003 (NA – GBA)
+
+Mario & Luigi: Partners in Time – November 28, 2005 (NA – DS)
+
+Mario & Luigi: Bowser's Inside Story – September 14, 2009 (NA – DS)
+
+Mario & Luigi: Dream Team – August 11, 2013 (NA – 3DS)
+
+Mario & Luigi: Paper Jam – January 22, 2016 (NA – 3DS)
+
+Mario & Luigi: Superstar Saga + Bowser’s Minions – October 6, 2017 (Worldwide – 3DS)
+
+Mario & Luigi: Bowser’s Inside Story + Bowser Jr.’s Journey – December 27, 2018 (Japan), January 11, 2019 (NA – 3DS)
+
+Mario & Luigi: Brothership – Planned 2024 (Worldwide – Nintendo Switch)
+
+Mario + Rabbids Series (Crossover RPGs)
+
+Mario + Rabbids Kingdom Battle – August 29, 2017 (Worldwide – Nintendo Switch)
+
+Mario + Rabbids: Donkey Kong Adventure (DLC) – June 26, 2018 (NA – Switch)
+
+Mario + Rabbids Sparks of Hope – October 20, 2022 (Worldwide – Switch)
+
+Sports RPGs:
+
+Mario Golf (GBC) – October 5, 1999 (NA)
+
+Mario Golf: Advance Tour – June 22, 2004 (NA – GBA)
+
+Mario Tennis (GBC) – January 16, 2001 (NA)
+
+Mario Tennis: Power Tour – November 28, 2005 (NA – GBA)

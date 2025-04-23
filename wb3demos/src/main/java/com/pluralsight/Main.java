@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("List of Mario RPG's:\n");
         FileInputStream fis = null;
         try {
             fis = new FileInputStream("Mario-RPG's-List.txt");
