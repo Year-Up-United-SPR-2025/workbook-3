@@ -24,7 +24,7 @@ public class Main {
                 double payRate = Double.parseDouble(tokens[3]);
 
                 Employee employee = new Employee(id, name, hoursWorked, payRate);
-                
+
                 System.out.printf("ID: %d | Name: %-20s | Gross Pay: $%.2f%n",
                         employee.getEmployeeId(), employee.getName(), employee.getGrossPay());
             }
