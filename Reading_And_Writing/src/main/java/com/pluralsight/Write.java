@@ -9,7 +9,7 @@ public class Write {
             FileWriter myWriter = new FileWriter("test2Write.txt");
             myWriter.write("Just Testing!");
             myWriter.close();
-            System.out.println("Successfully wrote to the file.");
+            System.out.println("Wrote into File.");
         } catch (IOException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
