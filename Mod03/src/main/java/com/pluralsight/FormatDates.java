@@ -35,14 +35,14 @@ public class FormatDates {
         Date localTime = new Date();
 
         DateFormat s = new SimpleDateFormat("EEEE, MMM dd, YYYY"
-                + " HH:mm:ss");
+                + " hh:mm a");
         s.setTimeZone(TimeZone.getTimeZone("GMT"));
 
         System.out.println("Time IN Gmt : "
                 + s.format(localTime));
 
         //Challenge
-        dateFormat = new SimpleDateFormat("kk:mm a, dd-MMM-YYYY");
+        dateFormat = new SimpleDateFormat("hh:mm a, dd-MMM-YYYY");
         System.out.println(dateFormat.format(dat));
     }
 }
